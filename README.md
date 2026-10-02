@@ -1,5 +1,5 @@
 # Confidence Analysis in Canadian Institutions (R Project)
-This project analyzes public confidence in Canadian institutions using data from Statistics Canada’s Quality of Life Hub. The analysis explores how confidence levels vary across institutions, demographics, age groups, immigration status, gender, and area of residence, using R for data cleaning, transformation, and visualization.
+This project analyzes public confidence in Canadian institutions using data from Statistics Canada’s Quality of Life Hub. The analysis explores how confidence levels vary across institutions, demographics, age groups, immigration status, gender, and area of residence, using R for data cleaning, transformation, and visualization. An interactive dashboard is then created using Microsoft Power BI where data is sourced directly from R environment.
 
 ### Project Overview
 The goal of this project is to understand how Canadians perceive key public institutions and how confidence differs across demographic groups.
@@ -10,8 +10,9 @@ The workflow includes:
 4. Visualization of confidence patterns
 5. Insights across demographic segments
 6. Summary of key findings
+7. Presentation of key findings through dashboard (Power BI).
    
-This project was completed entirely in RStudio.
+This project was completed entirely in RStudio and then connected to Power BI to create a dashboard.
 
 ### Tools & Technologies
 1. R
